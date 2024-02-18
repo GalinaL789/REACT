@@ -1,0 +1,32 @@
+.profile-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    width: 400px;
+    height: fit-content;
+    border: 1px solid #082229;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 10px 5px 5px rgba(217, 104, 11, 0.562);
+  }
+  
+  .avatar-control {
+    height: 300px;
+  }
+  
+  .profile-avatar {
+    height: 100%;
+    width: 100%;
+  }
+  .button
+  {
+    height: 70px;
+    width: 470px;
+    border-radius: 4px;
+    padding-top: 20px;
+    padding-right: 54px;
+    padding-bottom: 20px;
+    padding-left:54px;
+    color: #1F27F5;
+  }
