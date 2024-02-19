@@ -1,12 +1,12 @@
 const LogIn={
     placeholder: "Login",
     type:"text",
-    label: "Введите логин"
+    label: "Input Login"
 }
 
 const Pwd={
     placeholder: "Password",
     type: "password",
-    label: "Введите пароль"
+    label: "Input password"
 }
-export {LogIn, Pwd};
+export {LogIn, Pwd}

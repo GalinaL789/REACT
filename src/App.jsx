@@ -11,8 +11,8 @@ import Homework18 from "./homeworks/Homework18/Homework18";
 // 2. Компоненты должны возвращать JSX(DOM элементы - HTML теги)
 function App() {
   return (
-    <div className="App">
-      {/* <Lesson18 /> */}
+    <div className="page-wrapper">
+      {/* <Lesson18 />  */}
       <Homework18 />
       {/*<Lesson18/>*/}
     </div>

@@ -1,4 +1,3 @@
-import React from 'react';
 import './styles.css'; // Импортируем стили непосредственно в файле
 
 function Input({jsonObject}) {

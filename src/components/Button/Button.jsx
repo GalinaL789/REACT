@@ -1,6 +1,6 @@
 import "./styles.css";
-function Button() {
-    return <button class="button" type="button">Create</button>;
+import "./data";
+function Button({label,type}) {
+    return <button className="button" type={`${type}`}>{`${label}`}</button>;
   }
-  
   export default Button;
